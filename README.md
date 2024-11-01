@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hello, I'm Juan!
 👨‍💻 Aspiring Software Engineer and an all around lover of tech<br>👨🏻‍🎓 Studied Computer Science in the [California State University of Long Beach](https://www.csulb.edu/)<br>🤖 Into all things Full Stack Web Development<br>📖 Currently leaning about Next.js/Server Side Rendering
 
 
