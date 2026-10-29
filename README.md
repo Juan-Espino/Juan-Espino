@@ -7,7 +7,7 @@ I'm a Computer Science graduate from California State University, Long Beach, bu
 ## Selected Work
 
 - [juanespino.gg](https://www.juanespino.gg/) - my personal website and portfolio for projects, writing, and contact.
-- [Stepovers](https://stepovers.vercel.app/) - a Premier League entertainment factor calculator built around match data, scoring logic, and fan-friendly insights.
+- [Stepovers](https://stepovers.juanespino.gg/) - a Premier League entertainment factor calculator built around match data, scoring logic, and fan-friendly insights.
 - [Bloggin](https://www.juanespino.gg/bloggin) - a full-stack blog platform with a React frontend, Node.js API, and SQL-backed content.
 
 ## Tech I Work With
